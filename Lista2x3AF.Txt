@@ -1,0 +1,125 @@
+Listado (1) ordenado por Cod.Ven. y Fecha
+
+Cod. Vendedor:   1
+#Item     Fecha     Cant.       Descripción          Pre.Unit.     Tot.Item 
+  1    30-11-2021     1      Compresor               $ 6820.00     $ 6820.00
+  2    11-12-2019     5      Juego llaves Alen       $  250.25     $ 1251.25
+
+Total Vendedor   1:                                                $ 8071.25
+-----------------------------------------------------------------------------------
+
+
+Cod. Vendedor:   5
+#Item     Fecha     Cant.       Descripción          Pre.Unit.     Tot.Item 
+  1    10-10-2021     1      Amoladora 4 1/2"        $ 4300.00     $ 4300.00
+  2    27-25-2018     1      Cinta metrica           $  450.00     $  450.00
+  3    21-11-2011   100      Destornillador          $  500.00     $50000.00
+
+Total Vendedor   5:                                                $54750.00
+-----------------------------------------------------------------------------------
+
+
+Cod. Vendedor:   7
+#Item     Fecha     Cant.       Descripción          Pre.Unit.     Tot.Item 
+  1    31- 8-2021     1      Set llaves tubo         $ 9990.99     $ 9990.99
+
+Total Vendedor   7:                                                $ 9990.99
+-----------------------------------------------------------------------------------
+
+
+Cod. Vendedor:  24
+#Item     Fecha     Cant.       Descripción          Pre.Unit.     Tot.Item 
+  1    19-15-2022     1      Termo inox. 1.5Lt.      $ 5020.00     $ 5020.00
+  2    20- 4-2021     1      Set fil. tugsteno       $ 2500.00     $ 2500.00
+  3    14- 3-2019    10      Discos desvaste         $  100.00     $ 1000.00
+
+Total Vendedor  24:                                                $ 8520.00
+-----------------------------------------------------------------------------------
+
+
+Cod. Vendedor:  28
+#Item     Fecha     Cant.       Descripción          Pre.Unit.     Tot.Item 
+  1    20-12-2021     4      Pilas AAA               $  285.50     $ 1142.00
+  2    22-10-2019     3      Electr.3081 8Un.        $  420.50     $ 1261.50
+  3    20-12-2018     3      Soldadora               $ 3000.87     $ 9002.61
+
+Total Vendedor  28:                                                $11406.11
+-----------------------------------------------------------------------------------
+
+
+Cod. Vendedor:  33
+#Item     Fecha     Cant.       Descripción          Pre.Unit.     Tot.Item 
+  1    19- 2-2022     2      Flexibles               $  995.00     $ 1990.00
+  2    25- 7-2018     1      Martillo                $  250.00     $  250.00
+
+Total Vendedor  33:                                                $ 2240.00
+-----------------------------------------------------------------------------------
+
+
+Cod. Vendedor:  41
+#Item     Fecha     Cant.       Descripción          Pre.Unit.     Tot.Item 
+  1    17- 8-2022     5      Lamparas led            $  220.00     $ 1100.00
+  2    20-12-2017    20      Tornillos               $    1.50     $   30.00
+
+Total Vendedor  41:                                                $ 1130.00
+-----------------------------------------------------------------------------------
+
+
+Cod. Vendedor:  97
+#Item     Fecha     Cant.       Descripción          Pre.Unit.     Tot.Item 
+  1    22- 1-2022     2      Mecha copa 3/4"         $  350.00     $  700.00
+  2    17-11-2021    10      Clavos                  $  180.50     $ 1805.00
+
+Total Vendedor  97:                                                $ 2505.00
+-----------------------------------------------------------------------------------
+
+
+Cod. Vendedor: 113
+#Item     Fecha     Cant.       Descripción          Pre.Unit.     Tot.Item 
+  1    18-10-2021   500      Tornillos               $    3.15     $ 1575.00
+  2    13-10-2020     2      Discos Corte 4 1/2"     $  225.00     $  450.00
+
+Total Vendedor 113:                                                $ 2025.00
+-----------------------------------------------------------------------------------
+
+
+Cod. Vendedor: 251
+#Item     Fecha     Cant.       Descripción          Pre.Unit.     Tot.Item 
+  1     5- 1-2019     1      Manometro 1/2" 10b      $ 1020.00     $ 1020.00
+
+Total Vendedor 251:                                                $ 1020.00
+-----------------------------------------------------------------------------------
+
+Total General:                                                    $101658.35
+Cod.Vend.mayor venta de importe: 5
+
+-----------------------------------------------------------------------------------
+
+Listado (2) ordenado decrecientemente por Cantidad Total de cada Código de Vendedor
+          Cód. Ven.          Cant.Tot.
+             113                502
+               5                102
+              41                 25
+              97                 12
+              24                 12
+              28                 10
+               1                  6
+              33                  3
+             251                  1
+               7                  1
+-----------------------------------------------------------------------------------
+
+Listado (3) ordenado decrecientemente por Importe Total de cada Código de Vendedor
+          Cód. Ven.          Importe Total
+               5               $54750.00
+              28               $11406.11
+               7               $ 9990.99
+              24               $ 8520.00
+               1               $ 8071.25
+              97               $ 2505.00
+              33               $ 2240.00
+             113               $ 2025.00
+              41               $ 1130.00
+             251               $ 1020.00
+-----------------------------------------------------------------------------------
+
